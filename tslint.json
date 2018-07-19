@@ -1,0 +1,12 @@
+{
+    "defaultSeverity": "warn",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "no-magic-numbers": true,
+        "indent": [true,"spaces",2]
+    },
+    "rulesDirectory": []
+}
