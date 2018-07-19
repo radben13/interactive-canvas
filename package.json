@@ -1,0 +1,22 @@
+{
+  "name": "interactive-canvas",
+  "version": "0.0.1",
+  "description": "An interactive canvas with multilayered interfaces, an api for clicking, dragging, zooming, and saving the canvas's state are included.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radben13/interactive-canvas.git"
+  },
+  "keywords": [
+    "html5"
+  ],
+  "author": "Braden Van Wagenen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radben13/interactive-canvas/issues"
+  },
+  "homepage": "https://github.com/radben13/interactive-canvas#readme"
+}
