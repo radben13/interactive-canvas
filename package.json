@@ -2,11 +2,11 @@
   "name": "interactive-canvas",
   "version": "0.0.1",
   "description": "An interactive canvas with multilayered interfaces, an api for clicking, dragging, zooming, and saving the canvas's state are included.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run build",
-    "build": "tslint ./src/**/*.ts && tsc"
+    "build": "tslint ./src/**/*.ts --fix && tsc"
   },
   "repository": {
     "type": "git",
