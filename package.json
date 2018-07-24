@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/radben13/interactive-canvas/issues"
   },
-  "homepage": "https://github.com/radben13/interactive-canvas#readme"
+  "homepage": "https://github.com/radben13/interactive-canvas#readme",
+  "devDependencies": {
+    "@reactivex/rxjs": "^6.2.2",
+    "tslint": "^5.11.0",
+    "typescript": "^2.9.2"
+  },
+  "peerDependencies": {
+    "@reactivex/rxjs": "^6.2.2"
+  }
 }
